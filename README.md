@@ -15,9 +15,9 @@ vue.js工程的源码阅读过程是非常枯燥的，而且在阅读一些关�
 
 大概是下面这样的呈现(如果样式错乱,清除缓存刷新,后期结构会随时调整)
 
-<img src="images/vue/vue_page2.png" width = "250" height = "180" />
+<img src="images/vue/vue_page2.png" width = "450" height = "320" />
 
-<img src="images/vue/vue_page1.png" width = "250" height = "180" />
+<img src="images/vue/vue_page1.png" width = "450" height = "300" />
 
 ```
 【提示1】一些步骤可以点击交互。
